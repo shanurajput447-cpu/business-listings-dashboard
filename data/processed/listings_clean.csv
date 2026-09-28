@@ -1,0 +1,601 @@
+business_name,category,city,address,phone,source
+Spice Works MUM 001,Restaurant,Mumbai,"73, Andheri West, Mumbai",022-3872427,demo_sample
+Kitchen Point DEL 002,Restaurant,Delhi,"184, Karol Bagh, Delhi",+91 9342331444,demo_sample_directory
+Cafe Corner BEN 003,Restaurant,Bengaluru,"19, Koramangala, Bengaluru",+91 7127978094,demo_sample_local
+Tandoor House HYD 004,Restaurant,Hyderabad,"140, Banjara Hills, Hyderabad",040-7050099,demo_sample_trade
+Cafe House CHE 005,Restaurant,Chennai,"194, T Nagar, Chennai",+91 9791232393,demo_sample
+Biryani House PUN 006,Restaurant,Pune,"125, Hadapsar, Pune",+91 9530876844,demo_sample_directory
+Spice Center KOL 007,Restaurant,Kolkata,"189, Howrah, Kolkata",033-5545146,demo_sample_local
+Curry Center AHM 008,Restaurant,Ahmedabad,"66, Maninagar, Ahmedabad",+91 8445662585,demo_sample_trade
+Spice Corner JAI 009,Restaurant,Jaipur,"35, C Scheme, Jaipur",+91 8541804686,demo_sample
+Cafe Works KOC 010,Restaurant,Kochi,"22, Edappally, Kochi",0484-8121433,demo_sample_directory
+Cafe Point LUC 011,Restaurant,Lucknow,"107, Indira Nagar, Lucknow",+91 7338444264,demo_sample_local
+Curry Gallery CHA 012,Restaurant,Chandigarh,"103, Manimajra, Chandigarh",+91 9479708607,demo_sample_trade
+MedPlus Hub MUM 013,Pharmacy,Mumbai,"180, Bandra, Mumbai",022-3911749,demo_sample
+MedPlus House DEL 014,Pharmacy,Delhi,"36, Saket, Delhi",+91 8632629719,demo_sample_directory
+Life Place BEN 015,Pharmacy,Bengaluru,"52, Whitefield, Bengaluru",+91 8589915144,demo_sample_local
+Care Works HYD 016,Pharmacy,Hyderabad,"190, Secunderabad, Hyderabad",040-9857228,demo_sample_trade
+Apollo-style Center CHE 017,Pharmacy,Chennai,"147, T Nagar, Chennai",+91 8051454923,demo_sample
+Life Corner PUN 018,Pharmacy,Pune,"80, Hinjawadi, Pune",+91 9748778024,demo_sample_directory
+Care Place KOL 019,Pharmacy,Kolkata,"25, New Town, Kolkata",033-3921394,demo_sample_local
+Wellness Corner AHM 020,Pharmacy,Ahmedabad,"79, Navrangpura, Ahmedabad",+91 7284277889,demo_sample_trade
+Apollo-style Place JAI 021,Pharmacy,Jaipur,"65, Malviya Nagar, Jaipur",+91 9815087637,demo_sample
+Life Studio KOC 022,Pharmacy,Kochi,"47, Fort Kochi, Kochi",0484-4221975,demo_sample_directory
+Care Depot LUC 023,Pharmacy,Lucknow,"148, Gomti Nagar, Lucknow",+91 8128466620,demo_sample_local
+Life Gallery CHA 024,Pharmacy,Chandigarh,"113, Manimajra, Chandigarh",+91 8554762903,demo_sample_trade
+Gadget Depot MUM 025,Electronics Store,Mumbai,"137, Bandra, Mumbai",022-2762603,demo_sample
+Digital Center DEL 026,Electronics Store,Delhi,"171, Connaught Place, Delhi",+91 7687117441,demo_sample_directory
+Volt Point BEN 027,Electronics Store,Bengaluru,"109, Jayanagar, Bengaluru",+91 8639042338,demo_sample_local
+Pixel Depot HYD 028,Electronics Store,Hyderabad,"75, Kukatpally, Hyderabad",040-6640795,demo_sample_trade
+Digital Depot CHE 029,Electronics Store,Chennai,"79, T Nagar, Chennai",+91 9752909971,demo_sample
+Digital Works PUN 030,Electronics Store,Pune,"122, Viman Nagar, Pune",+91 7679282378,demo_sample_directory
+Digital Works KOL 031,Electronics Store,Kolkata,"139, Gariahat, Kolkata",033-8391802,demo_sample_local
+Volt Point AHM 032,Electronics Store,Ahmedabad,"171, Satellite, Ahmedabad",+91 8281810600,demo_sample_trade
+Volt House JAI 033,Electronics Store,Jaipur,"50, MI Road, Jaipur",+91 8605947756,demo_sample
+Volt Depot KOC 034,Electronics Store,Kochi,"11, Kakkanad, Kochi",0484-7024311,demo_sample_directory
+Pixel Hub LUC 035,Electronics Store,Lucknow,"39, Aliganj, Lucknow",+91 8558990517,demo_sample_local
+Gadget Hub CHA 036,Electronics Store,Chandigarh,"72, Sector 22, Chandigarh",+91 9436779490,demo_sample_trade
+Silk Studio MUM 037,Clothing Store,Mumbai,"28, Andheri West, Mumbai",022-8380393,demo_sample
+Style Center DEL 038,Clothing Store,Delhi,"179, Dwarka, Delhi",+91 9041322270,demo_sample_directory
+Style Works BEN 039,Clothing Store,Bengaluru,"146, HSR Layout, Bengaluru",+91 9605301030,demo_sample_local
+Style Depot HYD 040,Clothing Store,Hyderabad,"197, Gachibowli, Hyderabad",040-7787029,demo_sample_trade
+Wardrobe Corner CHE 041,Clothing Store,Chennai,"182, Anna Nagar, Chennai",+91 9791205006,demo_sample
+Thread Depot PUN 042,Clothing Store,Pune,"126, Viman Nagar, Pune",+91 7519709079,demo_sample_directory
+Style Point KOL 043,Clothing Store,Kolkata,"97, Park Street, Kolkata",033-2176448,demo_sample_local
+Fashion House AHM 044,Clothing Store,Ahmedabad,"161, CG Road, Ahmedabad",+91 7945826486,demo_sample_trade
+Silk Hub JAI 045,Clothing Store,Jaipur,"69, C Scheme, Jaipur",+91 7289482182,demo_sample
+Wardrobe Point KOC 046,Clothing Store,Kochi,"142, MG Road, Kochi",0484-3996527,demo_sample_directory
+Thread House LUC 047,Clothing Store,Lucknow,"149, Aliganj, Lucknow",+91 7568275055,demo_sample_local
+Fashion Studio CHA 048,Clothing Store,Chandigarh,"73, Manimajra, Chandigarh",+91 9031403296,demo_sample_trade
+Power Point MUM 049,Gym,Mumbai,"35, Powai, Mumbai",022-7527947,demo_sample
+Iron Corner DEL 050,Gym,Delhi,"116, Rohini, Delhi",+91 9005855667,demo_sample_directory
+Fit Hub BEN 051,Gym,Bengaluru,"114, Koramangala, Bengaluru",+91 8457293575,demo_sample_local
+Power House HYD 052,Gym,Hyderabad,"59, Banjara Hills, Hyderabad",040-6498690,demo_sample_trade
+Power Corner CHE 053,Gym,Chennai,"57, Velachery, Chennai",+91 8196342297,demo_sample
+Power Point PUN 054,Gym,Pune,"124, Shivajinagar, Pune",+91 9363629219,demo_sample_directory
+Fit Depot KOL 055,Gym,Kolkata,"14, Salt Lake, Kolkata",033-2782344,demo_sample_local
+Power Corner AHM 056,Gym,Ahmedabad,"135, Satellite, Ahmedabad",+91 9067418686,demo_sample_trade
+Pulse Hub JAI 057,Gym,Jaipur,"53, Malviya Nagar, Jaipur",+91 8627677155,demo_sample
+Pulse Works KOC 058,Gym,Kochi,"127, MG Road, Kochi",0484-4392843,demo_sample_directory
+Strength Studio LUC 059,Gym,Lucknow,"50, Indira Nagar, Lucknow",+91 7815605132,demo_sample_local
+Power Hub CHA 060,Gym,Chandigarh,"159, Sector 22, Chandigarh",+91 9328710672,demo_sample_trade
+Blossom Hub MUM 061,Salon,Mumbai,"23, Andheri West, Mumbai",022-6900436,demo_sample
+Aura Depot DEL 062,Salon,Delhi,"51, Rohini, Delhi",+91 7244295904,demo_sample_directory
+Glow Center BEN 063,Salon,Bengaluru,"28, HSR Layout, Bengaluru",+91 9555656321,demo_sample_local
+Style Corner HYD 064,Salon,Hyderabad,"41, Banjara Hills, Hyderabad",040-9898680,demo_sample_trade
+Style Gallery CHE 065,Salon,Chennai,"163, Mylapore, Chennai",+91 7170689150,demo_sample
+Glow Corner PUN 066,Salon,Pune,"179, Hadapsar, Pune",+91 9506853388,demo_sample_directory
+Aura Place KOL 067,Salon,Kolkata,"77, New Town, Kolkata",033-3713450,demo_sample_local
+Style Works AHM 068,Salon,Ahmedabad,"112, Maninagar, Ahmedabad",+91 7562117925,demo_sample_trade
+Trim Place JAI 069,Salon,Jaipur,"29, Vaishali Nagar, Jaipur",+91 7040009587,demo_sample
+Aura Gallery KOC 070,Salon,Kochi,"36, Fort Kochi, Kochi",0484-2614555,demo_sample_directory
+Style Depot LUC 071,Salon,Lucknow,"78, Aminabad, Lucknow",+91 7568896616,demo_sample_local
+Glow House CHA 072,Salon,Chandigarh,"105, Sector 22, Chandigarh",+91 8224011538,demo_sample_trade
+Family Depot MUM 073,Clinic,Mumbai,"191, Bandra, Mumbai",022-4537697,demo_sample
+City Hub DEL 074,Clinic,Delhi,"181, Dwarka, Delhi",+91 9381998678,demo_sample_directory
+Health Center BEN 075,Clinic,Bengaluru,"78, Whitefield, Bengaluru",+91 7495762348,demo_sample_local
+City Center HYD 076,Clinic,Hyderabad,"80, Banjara Hills, Hyderabad",040-4363542,demo_sample_trade
+Care Place CHE 077,Clinic,Chennai,"63, Mylapore, Chennai",+91 9952777682,demo_sample
+City Studio PUN 078,Clinic,Pune,"75, Viman Nagar, Pune",+91 7218179599,demo_sample_directory
+Family Works KOL 079,Clinic,Kolkata,"22, Salt Lake, Kolkata",033-2029743,demo_sample_local
+Care Works AHM 080,Clinic,Ahmedabad,"52, Maninagar, Ahmedabad",+91 8897669065,demo_sample_trade
+Family Depot JAI 081,Clinic,Jaipur,"13, MI Road, Jaipur",+91 7480494664,demo_sample
+Care Depot KOC 082,Clinic,Kochi,"20, MG Road, Kochi",0484-9001090,demo_sample_directory
+City Depot LUC 083,Clinic,Lucknow,"48, Aliganj, Lucknow",+91 8845919895,demo_sample_local
+Health Works CHA 084,Clinic,Chandigarh,"104, Sector 35, Chandigarh",+91 7171347175,demo_sample_trade
+Mart House MUM 085,Grocery,Mumbai,"181, Dadar, Mumbai",022-2862295,demo_sample
+Kirana Corner DEL 086,Grocery,Delhi,"169, Saket, Delhi",+91 7663801533,demo_sample_directory
+Mart Center BEN 087,Grocery,Bengaluru,"116, Indiranagar, Bengaluru",+91 7106456634,demo_sample_local
+Basket Corner HYD 088,Grocery,Hyderabad,"182, Hitech City, Hyderabad",040-9248294,demo_sample_trade
+Basket Center CHE 089,Grocery,Chennai,"190, Anna Nagar, Chennai",+91 7464267175,demo_sample
+Fresh Studio PUN 090,Grocery,Pune,"67, Shivajinagar, Pune",+91 7857158768,demo_sample_directory
+Basket Works KOL 091,Grocery,Kolkata,"69, Gariahat, Kolkata",033-3870018,demo_sample_local
+Mart Corner AHM 092,Grocery,Ahmedabad,"95, Navrangpura, Ahmedabad",+91 8196591018,demo_sample_trade
+Basket Place JAI 093,Grocery,Jaipur,"175, C Scheme, Jaipur",+91 9187880715,demo_sample
+Kirana Place KOC 094,Grocery,Kochi,"18, Fort Kochi, Kochi",0484-2967556,demo_sample_directory
+Mart Gallery LUC 095,Grocery,Lucknow,"78, Aliganj, Lucknow",+91 7164313410,demo_sample_local
+Kirana Corner CHA 096,Grocery,Chandigarh,"99, Sector 17, Chandigarh",+91 8347233823,demo_sample_trade
+Pitstop Depot MUM 097,Auto Workshop,Mumbai,"40, Powai, Mumbai",022-5231253,demo_sample
+Gear Works DEL 098,Auto Workshop,Delhi,"22, Dwarka, Delhi",+91 8872852789,demo_sample_directory
+Pitstop Depot BEN 099,Auto Workshop,Bengaluru,"186, Koramangala, Bengaluru",+91 9880327491,demo_sample_local
+Wheel Corner HYD 100,Auto Workshop,Hyderabad,"28, Hitech City, Hyderabad",040-9959736,demo_sample_trade
+Pitstop Place CHE 101,Auto Workshop,Chennai,"180, Adyar, Chennai",+91 7535261654,demo_sample
+Pitstop Works PUN 102,Auto Workshop,Pune,"181, Viman Nagar, Pune",+91 8754034197,demo_sample_directory
+Service Works KOL 103,Auto Workshop,Kolkata,"152, Howrah, Kolkata",033-3067767,demo_sample_local
+Service Corner AHM 104,Auto Workshop,Ahmedabad,"184, Satellite, Ahmedabad",+91 7747441732,demo_sample_trade
+Pitstop Works JAI 105,Auto Workshop,Jaipur,"114, MI Road, Jaipur",+91 9353372386,demo_sample
+Wheel Works KOC 106,Auto Workshop,Kochi,"64, MG Road, Kochi",0484-5606163,demo_sample_directory
+Pitstop Place LUC 107,Auto Workshop,Lucknow,"130, Aminabad, Lucknow",+91 8897456484,demo_sample_local
+Gear Depot CHA 108,Auto Workshop,Chandigarh,"132, Industrial Area, Chandigarh",+91 7728818981,demo_sample_trade
+Tutor Depot MUM 109,Education,Mumbai,"180, Andheri West, Mumbai",022-7309492,demo_sample
+Tutor Point DEL 110,Education,Delhi,"71, Dwarka, Delhi",+91 9889635392,demo_sample_directory
+Academy House BEN 111,Education,Bengaluru,"48, Whitefield, Bengaluru",+91 7104906255,demo_sample_local
+Academy Studio HYD 112,Education,Hyderabad,"167, Banjara Hills, Hyderabad",040-9128116,demo_sample_trade
+Knowledge Corner CHE 113,Education,Chennai,"172, T Nagar, Chennai",+91 9472487690,demo_sample
+Knowledge Studio PUN 114,Education,Pune,"113, Hinjawadi, Pune",+91 8047905204,demo_sample_directory
+Learn Point KOL 115,Education,Kolkata,"119, Park Street, Kolkata",033-3835772,demo_sample_local
+Bright Studio AHM 116,Education,Ahmedabad,"23, Satellite, Ahmedabad",+91 9394039673,demo_sample_trade
+Learn Studio JAI 117,Education,Jaipur,"45, Malviya Nagar, Jaipur",+91 8995627518,demo_sample
+Bright Gallery KOC 118,Education,Kochi,"92, Panampilly Nagar, Kochi",0484-9969509,demo_sample_directory
+Bright Depot LUC 119,Education,Lucknow,"120, Indira Nagar, Lucknow",+91 9353092123,demo_sample_local
+Academy Studio CHA 120,Education,Chandigarh,"126, Industrial Area, Chandigarh",+91 8113219231,demo_sample_trade
+Shelter Depot MUM 121,Real Estate,Mumbai,"135, Bandra, Mumbai",022-7257546,demo_sample
+Shelter Studio DEL 122,Real Estate,Delhi,"30, Karol Bagh, Delhi",+91 8227193073,demo_sample_directory
+Shelter Place BEN 123,Real Estate,Bengaluru,"92, Indiranagar, Bengaluru",+91 9319936135,demo_sample_local
+Estate Center HYD 124,Real Estate,Hyderabad,"70, Banjara Hills, Hyderabad",040-5213132,demo_sample_trade
+Estate Point CHE 125,Real Estate,Chennai,"117, Anna Nagar, Chennai",+91 8750625978,demo_sample
+Nivas Studio PUN 126,Real Estate,Pune,"117, Viman Nagar, Pune",+91 7267429212,demo_sample_directory
+Property Corner KOL 127,Real Estate,Kolkata,"160, Park Street, Kolkata",033-9936143,demo_sample_local
+Nivas Corner AHM 128,Real Estate,Ahmedabad,"133, Navrangpura, Ahmedabad",+91 7025323460,demo_sample_trade
+Shelter Corner JAI 129,Real Estate,Jaipur,"118, Vaishali Nagar, Jaipur",+91 9311639723,demo_sample
+Nivas House KOC 130,Real Estate,Kochi,"135, Panampilly Nagar, Kochi",0484-3840642,demo_sample_directory
+Property Studio LUC 131,Real Estate,Lucknow,"18, Aliganj, Lucknow",+91 8670128972,demo_sample_local
+Property Center CHA 132,Real Estate,Chandigarh,"130, Sector 22, Chandigarh",+91 7548157187,demo_sample_trade
+Suites Hub MUM 133,Hotel,Mumbai,"111, Thane West, Mumbai",022-6965156,demo_sample
+Stay Point DEL 134,Hotel,Delhi,"175, Dwarka, Delhi",+91 8840877826,demo_sample_directory
+Lodge Center BEN 135,Hotel,Bengaluru,"23, Indiranagar, Bengaluru",+91 8117362852,demo_sample_local
+Residency House HYD 136,Hotel,Hyderabad,"127, Gachibowli, Hyderabad",040-4741781,demo_sample_trade
+Lodge Works CHE 137,Hotel,Chennai,"118, Adyar, Chennai",+91 8083497965,demo_sample
+Lodge Hub PUN 138,Hotel,Pune,"149, Kothrud, Pune",+91 7223705953,demo_sample_directory
+Inn Point KOL 139,Hotel,Kolkata,"177, Howrah, Kolkata",033-2337709,demo_sample_local
+Inn House AHM 140,Hotel,Ahmedabad,"16, Navrangpura, Ahmedabad",+91 9668616333,demo_sample_trade
+Inn Center JAI 141,Hotel,Jaipur,"132, Malviya Nagar, Jaipur",+91 9875303857,demo_sample
+Suites House KOC 142,Hotel,Kochi,"130, MG Road, Kochi",0484-7867537,demo_sample_directory
+Residency Center LUC 143,Hotel,Lucknow,"166, Aliganj, Lucknow",+91 9608108101,demo_sample_local
+Inn Works CHA 144,Hotel,Chandigarh,"38, Sector 17, Chandigarh",+91 9485432021,demo_sample_trade
+Curry Gallery MUM 145,Restaurant,Mumbai,"184, Andheri West, Mumbai",022-9617075,demo_sample
+Biryani House DEL 146,Restaurant,Delhi,"30, Rohini, Delhi",+91 9543040948,demo_sample_directory
+Spice Works BEN 147,Restaurant,Bengaluru,"186, Indiranagar, Bengaluru",+91 9578748240,demo_sample_local
+Cafe Hub HYD 148,Restaurant,Hyderabad,"99, Banjara Hills, Hyderabad",040-6468991,demo_sample_trade
+Kitchen Place CHE 149,Restaurant,Chennai,"28, Velachery, Chennai",+91 9173085046,demo_sample
+Spice Corner PUN 150,Restaurant,Pune,"136, Viman Nagar, Pune",+91 7453285987,demo_sample_directory
+Curry Studio KOL 151,Restaurant,Kolkata,"192, Gariahat, Kolkata",033-3283382,demo_sample_local
+Tandoor Depot AHM 152,Restaurant,Ahmedabad,"177, Bodakdev, Ahmedabad",+91 8159995046,demo_sample_trade
+Cafe Studio JAI 153,Restaurant,Jaipur,"130, MI Road, Jaipur",+91 8870778191,demo_sample
+Curry Place KOC 154,Restaurant,Kochi,"73, Panampilly Nagar, Kochi",0484-8968676,demo_sample_directory
+Curry Studio LUC 155,Restaurant,Lucknow,"73, Hazratganj, Lucknow",+91 8995907669,demo_sample_local
+Cafe Corner CHA 156,Restaurant,Chandigarh,"97, Manimajra, Chandigarh",+91 7123265537,demo_sample_trade
+Wellness Center MUM 157,Pharmacy,Mumbai,"135, Powai, Mumbai",022-3779390,demo_sample
+Wellness Place DEL 158,Pharmacy,Delhi,"82, Saket, Delhi",+91 9560466250,demo_sample_directory
+Apollo-style Hub BEN 159,Pharmacy,Bengaluru,"143, Whitefield, Bengaluru",+91 7820581106,demo_sample_local
+Care Corner HYD 160,Pharmacy,Hyderabad,"136, Banjara Hills, Hyderabad",040-6657155,demo_sample_trade
+Life Studio CHE 161,Pharmacy,Chennai,"125, Anna Nagar, Chennai",+91 7074059253,demo_sample
+Wellness House PUN 162,Pharmacy,Pune,"114, Kothrud, Pune",+91 9971203213,demo_sample_directory
+Wellness Gallery KOL 163,Pharmacy,Kolkata,"105, Park Street, Kolkata",033-5969996,demo_sample_local
+Apollo-style Place AHM 164,Pharmacy,Ahmedabad,"119, CG Road, Ahmedabad",+91 9363900493,demo_sample_trade
+Wellness Studio JAI 165,Pharmacy,Jaipur,"80, Vaishali Nagar, Jaipur",+91 8316935719,demo_sample
+Care Point KOC 166,Pharmacy,Kochi,"195, Edappally, Kochi",0484-3615514,demo_sample_directory
+MedPlus Depot LUC 167,Pharmacy,Lucknow,"187, Aliganj, Lucknow",+91 7795212538,demo_sample_local
+Care Studio CHA 168,Pharmacy,Chandigarh,"81, Sector 35, Chandigarh",+91 9532256470,demo_sample_trade
+Volt Works MUM 169,Electronics Store,Mumbai,"36, Thane West, Mumbai",022-8984592,demo_sample
+Circuit House DEL 170,Electronics Store,Delhi,"103, Karol Bagh, Delhi",+91 7770695571,demo_sample_directory
+Digital Depot BEN 171,Electronics Store,Bengaluru,"43, Whitefield, Bengaluru",+91 8178158203,demo_sample_local
+Digital Depot HYD 172,Electronics Store,Hyderabad,"85, Banjara Hills, Hyderabad",040-7850361,demo_sample_trade
+Pixel Point CHE 173,Electronics Store,Chennai,"14, Anna Nagar, Chennai",+91 9465587067,demo_sample
+Pixel Studio PUN 174,Electronics Store,Pune,"123, Viman Nagar, Pune",+91 8463320861,demo_sample_directory
+Digital Works KOL 175,Electronics Store,Kolkata,"133, Park Street, Kolkata",033-2957032,demo_sample_local
+Pixel Studio AHM 176,Electronics Store,Ahmedabad,"29, Navrangpura, Ahmedabad",+91 9478286982,demo_sample_trade
+Gadget Center JAI 177,Electronics Store,Jaipur,"155, C Scheme, Jaipur",+91 8304963614,demo_sample
+Gadget Point KOC 178,Electronics Store,Kochi,"153, MG Road, Kochi",0484-8412616,demo_sample_directory
+Volt Gallery LUC 179,Electronics Store,Lucknow,"169, Indira Nagar, Lucknow",+91 7969318858,demo_sample_local
+Pixel Studio CHA 180,Electronics Store,Chandigarh,"124, Manimajra, Chandigarh",+91 8277121963,demo_sample_trade
+Thread Works MUM 181,Clothing Store,Mumbai,"156, Thane West, Mumbai",022-7209554,demo_sample
+Fashion Point DEL 182,Clothing Store,Delhi,"64, Connaught Place, Delhi",+91 9686566602,demo_sample_directory
+Wardrobe Point BEN 183,Clothing Store,Bengaluru,"51, Indiranagar, Bengaluru",+91 8030213097,demo_sample_local
+Fashion Point HYD 184,Clothing Store,Hyderabad,"51, Hitech City, Hyderabad",040-2022445,demo_sample_trade
+Thread Gallery CHE 185,Clothing Store,Chennai,"131, Velachery, Chennai",+91 8250949136,demo_sample
+Style Works PUN 186,Clothing Store,Pune,"191, Kothrud, Pune",+91 8214266162,demo_sample_directory
+Silk House KOL 187,Clothing Store,Kolkata,"78, Gariahat, Kolkata",033-8608780,demo_sample_local
+Style Corner AHM 188,Clothing Store,Ahmedabad,"40, CG Road, Ahmedabad",+91 9338877621,demo_sample_trade
+Style Works JAI 189,Clothing Store,Jaipur,"47, Malviya Nagar, Jaipur",+91 7306702926,demo_sample
+Style Works KOC 190,Clothing Store,Kochi,"163, MG Road, Kochi",0484-8282712,demo_sample_directory
+Wardrobe Studio LUC 191,Clothing Store,Lucknow,"42, Aminabad, Lucknow",+91 9013042435,demo_sample_local
+Thread Works CHA 192,Clothing Store,Chandigarh,"139, Sector 22, Chandigarh",+91 9319203166,demo_sample_trade
+Pulse Point MUM 193,Gym,Mumbai,"164, Powai, Mumbai",022-2334376,demo_sample
+Iron Gallery DEL 194,Gym,Delhi,"75, Rohini, Delhi",+91 7111088881,demo_sample_directory
+Power Gallery BEN 195,Gym,Bengaluru,"161, Koramangala, Bengaluru",+91 7089101055,demo_sample_local
+Strength Hub HYD 196,Gym,Hyderabad,"55, Secunderabad, Hyderabad",040-5946846,demo_sample_trade
+Pulse Works CHE 197,Gym,Chennai,"57, Mylapore, Chennai",+91 9513971584,demo_sample
+Pulse Point PUN 198,Gym,Pune,"131, Shivajinagar, Pune",+91 8494481363,demo_sample_directory
+Iron Place KOL 199,Gym,Kolkata,"182, Gariahat, Kolkata",033-2877447,demo_sample_local
+Iron Corner AHM 200,Gym,Ahmedabad,"188, Satellite, Ahmedabad",+91 9128023255,demo_sample_trade
+Pulse Depot JAI 201,Gym,Jaipur,"20, Vaishali Nagar, Jaipur",+91 8953462417,demo_sample
+Iron Works KOC 202,Gym,Kochi,"93, MG Road, Kochi",0484-2972420,demo_sample_directory
+Strength Hub LUC 203,Gym,Lucknow,"179, Indira Nagar, Lucknow",+91 9330421741,demo_sample_local
+Pulse Hub CHA 204,Gym,Chandigarh,"59, Industrial Area, Chandigarh",+91 9226680251,demo_sample_trade
+Aura Studio MUM 205,Salon,Mumbai,"171, Dadar, Mumbai",022-5708108,demo_sample
+Style Works DEL 206,Salon,Delhi,"151, Connaught Place, Delhi",+91 7562697526,demo_sample_directory
+Trim Studio BEN 207,Salon,Bengaluru,"42, Whitefield, Bengaluru",+91 7123993296,demo_sample_local
+Style Center HYD 208,Salon,Hyderabad,"90, Kukatpally, Hyderabad",040-6620772,demo_sample_trade
+Aura Corner CHE 209,Salon,Chennai,"34, T Nagar, Chennai",+91 7965081954,demo_sample
+Trim Point PUN 210,Salon,Pune,"176, Kothrud, Pune",+91 7661300942,demo_sample_directory
+Blossom Depot KOL 211,Salon,Kolkata,"191, Gariahat, Kolkata",033-4293654,demo_sample_local
+Trim Studio AHM 212,Salon,Ahmedabad,"73, Bodakdev, Ahmedabad",+91 8961882949,demo_sample_trade
+Style Corner JAI 213,Salon,Jaipur,"59, MI Road, Jaipur",+91 9574307168,demo_sample
+Style Point KOC 214,Salon,Kochi,"81, Panampilly Nagar, Kochi",0484-8481668,demo_sample_directory
+Blossom Depot LUC 215,Salon,Lucknow,"79, Indira Nagar, Lucknow",+91 7011017705,demo_sample_local
+Blossom Gallery CHA 216,Salon,Chandigarh,"159, Sector 22, Chandigarh",+91 9834423953,demo_sample_trade
+Care Studio MUM 217,Clinic,Mumbai,"148, Powai, Mumbai",022-6062950,demo_sample
+Healing Depot DEL 218,Clinic,Delhi,"150, Saket, Delhi",+91 8620104855,demo_sample_directory
+Healing House BEN 219,Clinic,Bengaluru,"189, Jayanagar, Bengaluru",+91 8025662000,demo_sample_local
+Family House HYD 220,Clinic,Hyderabad,"116, Kukatpally, Hyderabad",040-2366140,demo_sample_trade
+Family Corner CHE 221,Clinic,Chennai,"109, Adyar, Chennai",+91 9850521812,demo_sample
+Family Hub PUN 222,Clinic,Pune,"43, Hinjawadi, Pune",+91 9157324056,demo_sample_directory
+Healing Point KOL 223,Clinic,Kolkata,"123, New Town, Kolkata",033-2836442,demo_sample_local
+Family Hub AHM 224,Clinic,Ahmedabad,"195, CG Road, Ahmedabad",+91 7619142798,demo_sample_trade
+Care Point JAI 225,Clinic,Jaipur,"131, Tonk Road, Jaipur",+91 8138264176,demo_sample
+City Corner KOC 226,Clinic,Kochi,"177, Edappally, Kochi",0484-2673733,demo_sample_directory
+City Corner LUC 227,Clinic,Lucknow,"92, Aliganj, Lucknow",+91 9692081959,demo_sample_local
+City Hub CHA 228,Clinic,Chandigarh,"169, Industrial Area, Chandigarh",+91 7293864877,demo_sample_trade
+Basket House MUM 229,Grocery,Mumbai,"34, Bandra, Mumbai",022-5640416,demo_sample
+Fresh Studio DEL 230,Grocery,Delhi,"53, Connaught Place, Delhi",+91 9980712298,demo_sample_directory
+Fresh Hub BEN 231,Grocery,Bengaluru,"94, Whitefield, Bengaluru",+91 7241030242,demo_sample_local
+Basket Place HYD 232,Grocery,Hyderabad,"121, Secunderabad, Hyderabad",040-3221127,demo_sample_trade
+Kirana Corner CHE 233,Grocery,Chennai,"155, Anna Nagar, Chennai",+91 9928310291,demo_sample
+Mart Center PUN 234,Grocery,Pune,"31, Hinjawadi, Pune",+91 9617747281,demo_sample_directory
+Kirana House KOL 235,Grocery,Kolkata,"138, Gariahat, Kolkata",033-9657364,demo_sample_local
+Mart House AHM 236,Grocery,Ahmedabad,"129, CG Road, Ahmedabad",+91 9739779525,demo_sample_trade
+Daily Works JAI 237,Grocery,Jaipur,"181, Vaishali Nagar, Jaipur",+91 7040361651,demo_sample
+Basket Depot KOC 238,Grocery,Kochi,"51, Fort Kochi, Kochi",0484-2619598,demo_sample_directory
+Basket Gallery LUC 239,Grocery,Lucknow,"87, Indira Nagar, Lucknow",+91 9744220825,demo_sample_local
+Basket Studio CHA 240,Grocery,Chandigarh,"88, Industrial Area, Chandigarh",+91 7855630484,demo_sample_trade
+Service Point MUM 241,Auto Workshop,Mumbai,"71, Powai, Mumbai",022-5199115,demo_sample
+Wheel Gallery DEL 242,Auto Workshop,Delhi,"86, Dwarka, Delhi",+91 8268006448,demo_sample_directory
+Service Works BEN 243,Auto Workshop,Bengaluru,"13, Koramangala, Bengaluru",+91 9430646623,demo_sample_local
+Pitstop Studio HYD 244,Auto Workshop,Hyderabad,"84, Banjara Hills, Hyderabad",040-8507386,demo_sample_trade
+Pitstop Place CHE 245,Auto Workshop,Chennai,"67, Anna Nagar, Chennai",+91 9734252963,demo_sample
+Pitstop Works PUN 246,Auto Workshop,Pune,"184, Hinjawadi, Pune",+91 9831163141,demo_sample_directory
+Motor Hub KOL 247,Auto Workshop,Kolkata,"90, Park Street, Kolkata",033-8615344,demo_sample_local
+Motor Gallery AHM 248,Auto Workshop,Ahmedabad,"104, Bodakdev, Ahmedabad",+91 7564409423,demo_sample_trade
+Wheel Place JAI 249,Auto Workshop,Jaipur,"117, C Scheme, Jaipur",+91 7754368373,demo_sample
+Gear Depot KOC 250,Auto Workshop,Kochi,"104, Kakkanad, Kochi",0484-6453112,demo_sample_directory
+Wheel Center LUC 251,Auto Workshop,Lucknow,"76, Aminabad, Lucknow",+91 9069520666,demo_sample_local
+Wheel Point CHA 252,Auto Workshop,Chandigarh,"130, Sector 22, Chandigarh",+91 7323408297,demo_sample_trade
+Academy Corner MUM 253,Education,Mumbai,"153, Bandra, Mumbai",022-5068343,demo_sample
+Knowledge Hub DEL 254,Education,Delhi,"78, Connaught Place, Delhi",+91 9304560537,demo_sample_directory
+Knowledge Place BEN 255,Education,Bengaluru,"183, Koramangala, Bengaluru",+91 9887681752,demo_sample_local
+Bright Corner HYD 256,Education,Hyderabad,"174, Secunderabad, Hyderabad",040-9887740,demo_sample_trade
+Learn House CHE 257,Education,Chennai,"131, Adyar, Chennai",+91 7107480046,demo_sample
+Bright Place PUN 258,Education,Pune,"167, Hadapsar, Pune",+91 7950764876,demo_sample_directory
+Knowledge Works KOL 259,Education,Kolkata,"177, Salt Lake, Kolkata",033-5425033,demo_sample_local
+Academy Hub AHM 260,Education,Ahmedabad,"20, Navrangpura, Ahmedabad",+91 8307235909,demo_sample_trade
+Learn Point JAI 261,Education,Jaipur,"71, Tonk Road, Jaipur",+91 9308745090,demo_sample
+Knowledge Studio KOC 262,Education,Kochi,"105, Kakkanad, Kochi",0484-7624446,demo_sample_directory
+Knowledge Gallery LUC 263,Education,Lucknow,"197, Aminabad, Lucknow",+91 7663670797,demo_sample_local
+Learn Studio CHA 264,Education,Chandigarh,"168, Industrial Area, Chandigarh",+91 8752844368,demo_sample_trade
+Homes Place MUM 265,Real Estate,Mumbai,"66, Dadar, Mumbai",022-5719366,demo_sample
+Estate Place DEL 266,Real Estate,Delhi,"36, Rohini, Delhi",+91 9944974316,demo_sample_directory
+Nivas Place BEN 267,Real Estate,Bengaluru,"26, Whitefield, Bengaluru",+91 8709996749,demo_sample_local
+Estate Point HYD 268,Real Estate,Hyderabad,"127, Secunderabad, Hyderabad",040-2769012,demo_sample_trade
+Nivas Hub CHE 269,Real Estate,Chennai,"23, Anna Nagar, Chennai",+91 8432410914,demo_sample
+Estate Gallery PUN 270,Real Estate,Pune,"63, Hinjawadi, Pune",+91 7294678352,demo_sample_directory
+Estate Gallery KOL 271,Real Estate,Kolkata,"66, New Town, Kolkata",033-8820382,demo_sample_local
+Shelter Center AHM 272,Real Estate,Ahmedabad,"163, Satellite, Ahmedabad",+91 7012178595,demo_sample_trade
+Estate Center JAI 273,Real Estate,Jaipur,"149, Vaishali Nagar, Jaipur",+91 8076551580,demo_sample
+Homes Hub KOC 274,Real Estate,Kochi,"44, Kakkanad, Kochi",0484-2124657,demo_sample_directory
+Estate Gallery LUC 275,Real Estate,Lucknow,"93, Aliganj, Lucknow",+91 7067779246,demo_sample_local
+Shelter Hub CHA 276,Real Estate,Chandigarh,"43, Sector 35, Chandigarh",+91 8808011838,demo_sample_trade
+Stay Point MUM 277,Hotel,Mumbai,"132, Thane West, Mumbai",022-5760405,demo_sample
+Suites Gallery DEL 278,Hotel,Delhi,"38, Saket, Delhi",+91 8941348507,demo_sample_directory
+Inn Gallery BEN 279,Hotel,Bengaluru,"22, HSR Layout, Bengaluru",+91 9829967158,demo_sample_local
+Residency Studio HYD 280,Hotel,Hyderabad,"175, Kukatpally, Hyderabad",040-2261310,demo_sample_trade
+Lodge Corner CHE 281,Hotel,Chennai,"120, T Nagar, Chennai",+91 9946766309,demo_sample
+Lodge Studio PUN 282,Hotel,Pune,"29, Kothrud, Pune",+91 7346992476,demo_sample_directory
+Suites Center KOL 283,Hotel,Kolkata,"27, Howrah, Kolkata",033-3058571,demo_sample_local
+Suites Gallery AHM 284,Hotel,Ahmedabad,"151, Maninagar, Ahmedabad",+91 8396660850,demo_sample_trade
+Suites Depot JAI 285,Hotel,Jaipur,"86, Tonk Road, Jaipur",+91 8948692883,demo_sample
+Suites Corner KOC 286,Hotel,Kochi,"36, Panampilly Nagar, Kochi",0484-8652972,demo_sample_directory
+Suites House LUC 287,Hotel,Lucknow,"121, Hazratganj, Lucknow",+91 8939413575,demo_sample_local
+Lodge Place CHA 288,Hotel,Chandigarh,"127, Sector 35, Chandigarh",+91 8712533097,demo_sample_trade
+Kitchen Point MUM 289,Restaurant,Mumbai,"91, Powai, Mumbai",022-5579955,demo_sample
+Kitchen Works DEL 290,Restaurant,Delhi,"106, Saket, Delhi",+91 7655579180,demo_sample_directory
+Spice Point BEN 291,Restaurant,Bengaluru,"32, Jayanagar, Bengaluru",+91 7400420225,demo_sample_local
+Spice Place HYD 292,Restaurant,Hyderabad,"44, Gachibowli, Hyderabad",040-6667176,demo_sample_trade
+Cafe Depot CHE 293,Restaurant,Chennai,"154, T Nagar, Chennai",+91 8415818695,demo_sample
+Biryani Place PUN 294,Restaurant,Pune,"181, Kothrud, Pune",+91 8816499958,demo_sample_directory
+Curry Gallery KOL 295,Restaurant,Kolkata,"90, Salt Lake, Kolkata",033-4949822,demo_sample_local
+Cafe Depot AHM 296,Restaurant,Ahmedabad,"65, Navrangpura, Ahmedabad",+91 7664561034,demo_sample_trade
+Tandoor Point JAI 297,Restaurant,Jaipur,"100, Tonk Road, Jaipur",+91 9389142017,demo_sample
+Spice Works KOC 298,Restaurant,Kochi,"157, Edappally, Kochi",0484-3897159,demo_sample_directory
+Cafe Gallery LUC 299,Restaurant,Lucknow,"168, Indira Nagar, Lucknow",+91 9899002906,demo_sample_local
+Spice Gallery CHA 300,Restaurant,Chandigarh,"179, Manimajra, Chandigarh",+91 9978436070,demo_sample_trade
+MedPlus Center MUM 301,Pharmacy,Mumbai,"80, Dadar, Mumbai",022-7894664,demo_sample
+Wellness Place DEL 302,Pharmacy,Delhi,"12, Saket, Delhi",+91 7779130936,demo_sample_directory
+Apollo-style Corner BEN 303,Pharmacy,Bengaluru,"28, Indiranagar, Bengaluru",+91 7609346980,demo_sample_local
+MedPlus Depot HYD 304,Pharmacy,Hyderabad,"66, Banjara Hills, Hyderabad",040-5155747,demo_sample_trade
+Life Place CHE 305,Pharmacy,Chennai,"51, Velachery, Chennai",+91 8589365925,demo_sample
+Wellness Gallery PUN 306,Pharmacy,Pune,"163, Viman Nagar, Pune",+91 7364887703,demo_sample_directory
+Care Center KOL 307,Pharmacy,Kolkata,"169, Salt Lake, Kolkata",033-2417438,demo_sample_local
+Wellness Studio AHM 308,Pharmacy,Ahmedabad,"180, Navrangpura, Ahmedabad",+91 8821129578,demo_sample_trade
+Apollo-style Studio JAI 309,Pharmacy,Jaipur,"117, Tonk Road, Jaipur",+91 8173242669,demo_sample
+Apollo-style Point KOC 310,Pharmacy,Kochi,"99, Kakkanad, Kochi",0484-5606376,demo_sample_directory
+Wellness Gallery LUC 311,Pharmacy,Lucknow,"135, Hazratganj, Lucknow",+91 9263164755,demo_sample_local
+MedPlus House CHA 312,Pharmacy,Chandigarh,"112, Sector 22, Chandigarh",+91 9574081104,demo_sample_trade
+Digital House MUM 313,Electronics Store,Mumbai,"88, Andheri West, Mumbai",022-9929953,demo_sample
+Gadget Works DEL 314,Electronics Store,Delhi,"85, Karol Bagh, Delhi",+91 8409274786,demo_sample_directory
+Digital Studio BEN 315,Electronics Store,Bengaluru,"121, Koramangala, Bengaluru",+91 7754603440,demo_sample_local
+Pixel Depot HYD 316,Electronics Store,Hyderabad,"191, Hitech City, Hyderabad",040-3930308,demo_sample_trade
+Volt Place CHE 317,Electronics Store,Chennai,"29, Mylapore, Chennai",+91 8705407682,demo_sample
+Pixel Hub PUN 318,Electronics Store,Pune,"128, Kothrud, Pune",+91 7334417350,demo_sample_directory
+Volt Corner KOL 319,Electronics Store,Kolkata,"157, Howrah, Kolkata",033-5392545,demo_sample_local
+Circuit Point AHM 320,Electronics Store,Ahmedabad,"114, Bodakdev, Ahmedabad",+91 7089578218,demo_sample_trade
+Gadget Gallery JAI 321,Electronics Store,Jaipur,"128, Vaishali Nagar, Jaipur",+91 9961852565,demo_sample
+Digital Corner KOC 322,Electronics Store,Kochi,"38, Edappally, Kochi",0484-4041086,demo_sample_directory
+Volt Corner LUC 323,Electronics Store,Lucknow,"145, Indira Nagar, Lucknow",+91 7337786687,demo_sample_local
+Circuit Place CHA 324,Electronics Store,Chandigarh,"67, Industrial Area, Chandigarh",+91 8430518844,demo_sample_trade
+Silk Depot MUM 325,Clothing Store,Mumbai,"173, Bandra, Mumbai",022-2956524,demo_sample
+Fashion House DEL 326,Clothing Store,Delhi,"100, Dwarka, Delhi",+91 8507961865,demo_sample_directory
+Style Point BEN 327,Clothing Store,Bengaluru,"48, Indiranagar, Bengaluru",+91 8099375147,demo_sample_local
+Style Gallery HYD 328,Clothing Store,Hyderabad,"50, Hitech City, Hyderabad",040-8377148,demo_sample_trade
+Style Studio CHE 329,Clothing Store,Chennai,"129, T Nagar, Chennai",+91 9421225455,demo_sample
+Thread Gallery PUN 330,Clothing Store,Pune,"175, Hadapsar, Pune",+91 9728585503,demo_sample_directory
+Wardrobe Place KOL 331,Clothing Store,Kolkata,"49, New Town, Kolkata",033-5688997,demo_sample_local
+Thread Studio AHM 332,Clothing Store,Ahmedabad,"172, Navrangpura, Ahmedabad",+91 8300603858,demo_sample_trade
+Fashion Hub JAI 333,Clothing Store,Jaipur,"101, Vaishali Nagar, Jaipur",+91 9178995337,demo_sample
+Wardrobe Studio KOC 334,Clothing Store,Kochi,"126, MG Road, Kochi",0484-2315472,demo_sample_directory
+Wardrobe Works LUC 335,Clothing Store,Lucknow,"30, Hazratganj, Lucknow",+91 9768821397,demo_sample_local
+Fashion Gallery CHA 336,Clothing Store,Chandigarh,"140, Sector 17, Chandigarh",+91 8651339677,demo_sample_trade
+Strength Depot MUM 337,Gym,Mumbai,"21, Powai, Mumbai",022-5772639,demo_sample
+Power Place DEL 338,Gym,Delhi,"165, Dwarka, Delhi",+91 9042811108,demo_sample_directory
+Power Hub BEN 339,Gym,Bengaluru,"126, HSR Layout, Bengaluru",+91 7444537179,demo_sample_local
+Fit Depot HYD 340,Gym,Hyderabad,"176, Secunderabad, Hyderabad",040-3447529,demo_sample_trade
+Power Studio CHE 341,Gym,Chennai,"123, T Nagar, Chennai",+91 9250857309,demo_sample
+Strength Center PUN 342,Gym,Pune,"104, Hadapsar, Pune",+91 8601387070,demo_sample_directory
+Pulse Corner KOL 343,Gym,Kolkata,"97, Howrah, Kolkata",033-7695006,demo_sample_local
+Fit Place AHM 344,Gym,Ahmedabad,"27, CG Road, Ahmedabad",+91 8416011033,demo_sample_trade
+Strength Corner JAI 345,Gym,Jaipur,"83, C Scheme, Jaipur",+91 8082313657,demo_sample
+Power Place KOC 346,Gym,Kochi,"31, Panampilly Nagar, Kochi",0484-6888373,demo_sample_directory
+Iron Works LUC 347,Gym,Lucknow,"178, Gomti Nagar, Lucknow",+91 9999948589,demo_sample_local
+Power Gallery CHA 348,Gym,Chandigarh,"192, Industrial Area, Chandigarh",+91 7363865392,demo_sample_trade
+Aura Corner MUM 349,Salon,Mumbai,"175, Dadar, Mumbai",022-8640941,demo_sample
+Style Depot DEL 350,Salon,Delhi,"34, Saket, Delhi",+91 9774655465,demo_sample_directory
+Aura Place BEN 351,Salon,Bengaluru,"15, Jayanagar, Bengaluru",+91 8557345129,demo_sample_local
+Style House HYD 352,Salon,Hyderabad,"98, Secunderabad, Hyderabad",040-9949617,demo_sample_trade
+Style House CHE 353,Salon,Chennai,"46, Velachery, Chennai",+91 7665484476,demo_sample
+Blossom Point PUN 354,Salon,Pune,"140, Kothrud, Pune",+91 9318297747,demo_sample_directory
+Glow Place KOL 355,Salon,Kolkata,"169, New Town, Kolkata",033-3099319,demo_sample_local
+Trim Center AHM 356,Salon,Ahmedabad,"52, CG Road, Ahmedabad",+91 7776727492,demo_sample_trade
+Style Studio JAI 357,Salon,Jaipur,"22, MI Road, Jaipur",+91 8764624310,demo_sample
+Style Studio KOC 358,Salon,Kochi,"167, Edappally, Kochi",0484-4390148,demo_sample_directory
+Style Depot LUC 359,Salon,Lucknow,"72, Indira Nagar, Lucknow",+91 8329154472,demo_sample_local
+Style Place CHA 360,Salon,Chandigarh,"184, Industrial Area, Chandigarh",+91 9449932632,demo_sample_trade
+Family Works MUM 361,Clinic,Mumbai,"108, Powai, Mumbai",022-6218687,demo_sample
+Family Center DEL 362,Clinic,Delhi,"62, Dwarka, Delhi",+91 9597009738,demo_sample_directory
+Healing Hub BEN 363,Clinic,Bengaluru,"175, Indiranagar, Bengaluru",+91 9064121137,demo_sample_local
+City Point HYD 364,Clinic,Hyderabad,"193, Secunderabad, Hyderabad",040-9095858,demo_sample_trade
+Health Works CHE 365,Clinic,Chennai,"32, Mylapore, Chennai",+91 7688536251,demo_sample
+Family Depot PUN 366,Clinic,Pune,"48, Viman Nagar, Pune",+91 8878930355,demo_sample_directory
+Care Studio KOL 367,Clinic,Kolkata,"100, Salt Lake, Kolkata",033-9805364,demo_sample_local
+Family Hub AHM 368,Clinic,Ahmedabad,"112, Navrangpura, Ahmedabad",+91 9156104136,demo_sample_trade
+Care Corner JAI 369,Clinic,Jaipur,"31, Vaishali Nagar, Jaipur",+91 8610237679,demo_sample
+Health Place KOC 370,Clinic,Kochi,"36, Kakkanad, Kochi",0484-9039520,demo_sample_directory
+Care Center LUC 371,Clinic,Lucknow,"20, Aliganj, Lucknow",+91 8232137626,demo_sample_local
+Care Studio CHA 372,Clinic,Chandigarh,"125, Industrial Area, Chandigarh",+91 9642900640,demo_sample_trade
+Fresh Hub MUM 373,Grocery,Mumbai,"76, Andheri West, Mumbai",022-3809043,demo_sample
+Kirana Gallery DEL 374,Grocery,Delhi,"146, Karol Bagh, Delhi",+91 8817865363,demo_sample_directory
+Basket House BEN 375,Grocery,Bengaluru,"88, Koramangala, Bengaluru",+91 7523334661,demo_sample_local
+Mart Corner HYD 376,Grocery,Hyderabad,"174, Banjara Hills, Hyderabad",040-8659708,demo_sample_trade
+Daily Point CHE 377,Grocery,Chennai,"39, Mylapore, Chennai",+91 9146750150,demo_sample
+Kirana Hub PUN 378,Grocery,Pune,"172, Hadapsar, Pune",+91 9213521907,demo_sample_directory
+Mart Center KOL 379,Grocery,Kolkata,"85, New Town, Kolkata",033-5600716,demo_sample_local
+Kirana Place AHM 380,Grocery,Ahmedabad,"72, Navrangpura, Ahmedabad",+91 9450982005,demo_sample_trade
+Mart Point JAI 381,Grocery,Jaipur,"145, Tonk Road, Jaipur",+91 8548781344,demo_sample
+Kirana Depot KOC 382,Grocery,Kochi,"140, MG Road, Kochi",0484-8596904,demo_sample_directory
+Kirana Hub LUC 383,Grocery,Lucknow,"110, Aminabad, Lucknow",+91 9019214800,demo_sample_local
+Daily Place CHA 384,Grocery,Chandigarh,"75, Sector 17, Chandigarh",+91 7069759864,demo_sample_trade
+Motor Place MUM 385,Auto Workshop,Mumbai,"72, Dadar, Mumbai",022-8148354,demo_sample
+Pitstop Place DEL 386,Auto Workshop,Delhi,"45, Connaught Place, Delhi",+91 7190420322,demo_sample_directory
+Pitstop Place BEN 387,Auto Workshop,Bengaluru,"175, Whitefield, Bengaluru",+91 7752002052,demo_sample_local
+Service Center HYD 388,Auto Workshop,Hyderabad,"45, Gachibowli, Hyderabad",040-2529325,demo_sample_trade
+Motor Works CHE 389,Auto Workshop,Chennai,"62, Velachery, Chennai",+91 7188146518,demo_sample
+Motor Place PUN 390,Auto Workshop,Pune,"90, Hinjawadi, Pune",+91 9213555655,demo_sample_directory
+Pitstop Studio KOL 391,Auto Workshop,Kolkata,"75, Gariahat, Kolkata",033-2307197,demo_sample_local
+Wheel Place AHM 392,Auto Workshop,Ahmedabad,"23, Satellite, Ahmedabad",+91 9816344780,demo_sample_trade
+Wheel Point JAI 393,Auto Workshop,Jaipur,"105, Vaishali Nagar, Jaipur",+91 8876691885,demo_sample
+Service Corner KOC 394,Auto Workshop,Kochi,"97, Fort Kochi, Kochi",0484-3567136,demo_sample_directory
+Service Place LUC 395,Auto Workshop,Lucknow,"143, Indira Nagar, Lucknow",+91 8145556651,demo_sample_local
+Service Point CHA 396,Auto Workshop,Chandigarh,"121, Sector 17, Chandigarh",+91 9587517187,demo_sample_trade
+Bright Works MUM 397,Education,Mumbai,"93, Bandra, Mumbai",022-2860653,demo_sample
+Tutor Works DEL 398,Education,Delhi,"89, Connaught Place, Delhi",+91 8915193614,demo_sample_directory
+Knowledge Center BEN 399,Education,Bengaluru,"187, HSR Layout, Bengaluru",+91 8906571986,demo_sample_local
+Knowledge Hub HYD 400,Education,Hyderabad,"197, Secunderabad, Hyderabad",040-9298400,demo_sample_trade
+Bright Corner CHE 401,Education,Chennai,"81, Adyar, Chennai",+91 9746499773,demo_sample
+Learn Corner PUN 402,Education,Pune,"104, Kothrud, Pune",+91 9203687670,demo_sample_directory
+Learn Center KOL 403,Education,Kolkata,"166, Park Street, Kolkata",033-7688221,demo_sample_local
+Learn Center AHM 404,Education,Ahmedabad,"28, Bodakdev, Ahmedabad",+91 8013592436,demo_sample_trade
+Tutor Corner JAI 405,Education,Jaipur,"156, Vaishali Nagar, Jaipur",+91 7139093888,demo_sample
+Academy Studio KOC 406,Education,Kochi,"105, Panampilly Nagar, Kochi",0484-5120674,demo_sample_directory
+Learn Gallery LUC 407,Education,Lucknow,"46, Indira Nagar, Lucknow",+91 9274012889,demo_sample_local
+Knowledge Place CHA 408,Education,Chandigarh,"177, Sector 22, Chandigarh",+91 8196963451,demo_sample_trade
+Homes Hub MUM 409,Real Estate,Mumbai,"199, Bandra, Mumbai",022-3560684,demo_sample
+Nivas Corner DEL 410,Real Estate,Delhi,"154, Rohini, Delhi",+91 7505779640,demo_sample_directory
+Shelter Studio BEN 411,Real Estate,Bengaluru,"65, Whitefield, Bengaluru",+91 9627992499,demo_sample_local
+Property House HYD 412,Real Estate,Hyderabad,"42, Secunderabad, Hyderabad",040-3138572,demo_sample_trade
+Property Center CHE 413,Real Estate,Chennai,"193, T Nagar, Chennai",+91 8911737999,demo_sample
+Shelter Place PUN 414,Real Estate,Pune,"192, Kothrud, Pune",+91 7278911214,demo_sample_directory
+Nivas Works KOL 415,Real Estate,Kolkata,"87, New Town, Kolkata",033-9141742,demo_sample_local
+Estate Place AHM 416,Real Estate,Ahmedabad,"141, Satellite, Ahmedabad",+91 7963110410,demo_sample_trade
+Estate Center JAI 417,Real Estate,Jaipur,"71, C Scheme, Jaipur",+91 9121808073,demo_sample
+Shelter Depot KOC 418,Real Estate,Kochi,"157, MG Road, Kochi",0484-5094651,demo_sample_directory
+Nivas Center LUC 419,Real Estate,Lucknow,"167, Indira Nagar, Lucknow",+91 7370292681,demo_sample_local
+Shelter Corner CHA 420,Real Estate,Chandigarh,"194, Sector 17, Chandigarh",+91 9055850987,demo_sample_trade
+Lodge Corner MUM 421,Hotel,Mumbai,"158, Thane West, Mumbai",022-2618665,demo_sample
+Residency Point DEL 422,Hotel,Delhi,"126, Karol Bagh, Delhi",+91 9000738353,demo_sample_directory
+Residency Center BEN 423,Hotel,Bengaluru,"152, HSR Layout, Bengaluru",+91 9747893988,demo_sample_local
+Inn Center HYD 424,Hotel,Hyderabad,"121, Kukatpally, Hyderabad",040-6218327,demo_sample_trade
+Stay Depot CHE 425,Hotel,Chennai,"50, T Nagar, Chennai",+91 8306204982,demo_sample
+Inn Place PUN 426,Hotel,Pune,"192, Hinjawadi, Pune",+91 7968387506,demo_sample_directory
+Suites Works KOL 427,Hotel,Kolkata,"31, Howrah, Kolkata",033-4102229,demo_sample_local
+Suites Works AHM 428,Hotel,Ahmedabad,"43, Satellite, Ahmedabad",+91 9684450592,demo_sample_trade
+Suites Depot JAI 429,Hotel,Jaipur,"34, Vaishali Nagar, Jaipur",+91 9158535229,demo_sample
+Suites Gallery KOC 430,Hotel,Kochi,"50, Kakkanad, Kochi",0484-3436134,demo_sample_directory
+Suites Place LUC 431,Hotel,Lucknow,"155, Aminabad, Lucknow",+91 7176928180,demo_sample_local
+Stay Hub CHA 432,Hotel,Chandigarh,"175, Sector 17, Chandigarh",+91 9477213586,demo_sample_trade
+Kitchen House MUM 433,Restaurant,Mumbai,"157, Dadar, Mumbai",022-5494583,demo_sample
+Kitchen Hub DEL 434,Restaurant,Delhi,"138, Dwarka, Delhi",+91 9693648923,demo_sample_directory
+Curry Works BEN 435,Restaurant,Bengaluru,"134, HSR Layout, Bengaluru",+91 8051742593,demo_sample_local
+Curry Studio HYD 436,Restaurant,Hyderabad,"29, Gachibowli, Hyderabad",040-7776509,demo_sample_trade
+Tandoor Studio CHE 437,Restaurant,Chennai,"117, T Nagar, Chennai",+91 9079842771,demo_sample
+Tandoor Place PUN 438,Restaurant,Pune,"166, Shivajinagar, Pune",+91 7617052325,demo_sample_directory
+Kitchen Place KOL 439,Restaurant,Kolkata,"198, Howrah, Kolkata",033-9220723,demo_sample_local
+Biryani Center AHM 440,Restaurant,Ahmedabad,"105, Maninagar, Ahmedabad",+91 9211822827,demo_sample_trade
+Spice Place JAI 441,Restaurant,Jaipur,"72, MI Road, Jaipur",+91 9003484425,demo_sample
+Curry Studio KOC 442,Restaurant,Kochi,"74, MG Road, Kochi",0484-3181767,demo_sample_directory
+Spice Works LUC 443,Restaurant,Lucknow,"109, Hazratganj, Lucknow",+91 9643025991,demo_sample_local
+Tandoor Center CHA 444,Restaurant,Chandigarh,"94, Industrial Area, Chandigarh",+91 9481146933,demo_sample_trade
+Care Center MUM 445,Pharmacy,Mumbai,"138, Dadar, Mumbai",022-6317824,demo_sample
+Life Works DEL 446,Pharmacy,Delhi,"138, Rohini, Delhi",+91 7099541460,demo_sample_directory
+Life Depot BEN 447,Pharmacy,Bengaluru,"128, Koramangala, Bengaluru",+91 8033921654,demo_sample_local
+Apollo-style Place HYD 448,Pharmacy,Hyderabad,"23, Hitech City, Hyderabad",040-2423963,demo_sample_trade
+Life Gallery CHE 449,Pharmacy,Chennai,"178, Adyar, Chennai",+91 9888454001,demo_sample
+Wellness Depot PUN 450,Pharmacy,Pune,"13, Shivajinagar, Pune",+91 7461696451,demo_sample_directory
+Care Works KOL 451,Pharmacy,Kolkata,"197, Gariahat, Kolkata",033-5068365,demo_sample_local
+Wellness Hub AHM 452,Pharmacy,Ahmedabad,"113, Bodakdev, Ahmedabad",+91 7219720597,demo_sample_trade
+Apollo-style House JAI 453,Pharmacy,Jaipur,"103, MI Road, Jaipur",+91 9376074389,demo_sample
+MedPlus Corner KOC 454,Pharmacy,Kochi,"140, Edappally, Kochi",0484-5777846,demo_sample_directory
+Wellness Gallery LUC 455,Pharmacy,Lucknow,"185, Aminabad, Lucknow",+91 9624410325,demo_sample_local
+Care Point CHA 456,Pharmacy,Chandigarh,"111, Sector 17, Chandigarh",+91 8602874642,demo_sample_trade
+Volt Place MUM 457,Electronics Store,Mumbai,"47, Dadar, Mumbai",022-3669818,demo_sample
+Volt Corner DEL 458,Electronics Store,Delhi,"139, Dwarka, Delhi",+91 7172893522,demo_sample_directory
+Digital Center BEN 459,Electronics Store,Bengaluru,"193, Koramangala, Bengaluru",+91 8430398942,demo_sample_local
+Volt Studio HYD 460,Electronics Store,Hyderabad,"49, Gachibowli, Hyderabad",040-7085681,demo_sample_trade
+Gadget Place CHE 461,Electronics Store,Chennai,"167, Mylapore, Chennai",+91 8368076065,demo_sample
+Pixel Gallery PUN 462,Electronics Store,Pune,"87, Hinjawadi, Pune",+91 9550027973,demo_sample_directory
+Volt Depot KOL 463,Electronics Store,Kolkata,"147, Howrah, Kolkata",033-6109131,demo_sample_local
+Circuit Studio AHM 464,Electronics Store,Ahmedabad,"15, CG Road, Ahmedabad",+91 8582084743,demo_sample_trade
+Digital Corner JAI 465,Electronics Store,Jaipur,"160, Vaishali Nagar, Jaipur",+91 8321466224,demo_sample
+Volt Studio KOC 466,Electronics Store,Kochi,"78, MG Road, Kochi",0484-7499495,demo_sample_directory
+Volt House LUC 467,Electronics Store,Lucknow,"195, Aminabad, Lucknow",+91 7220568746,demo_sample_local
+Pixel Center CHA 468,Electronics Store,Chandigarh,"145, Manimajra, Chandigarh",+91 9701642822,demo_sample_trade
+Thread Center MUM 469,Clothing Store,Mumbai,"185, Thane West, Mumbai",022-4031692,demo_sample
+Fashion Point DEL 470,Clothing Store,Delhi,"59, Connaught Place, Delhi",+91 7081335390,demo_sample_directory
+Wardrobe Corner BEN 471,Clothing Store,Bengaluru,"49, Jayanagar, Bengaluru",+91 8773650170,demo_sample_local
+Thread Depot HYD 472,Clothing Store,Hyderabad,"167, Hitech City, Hyderabad",040-9721889,demo_sample_trade
+Silk Center CHE 473,Clothing Store,Chennai,"143, Velachery, Chennai",+91 7890525840,demo_sample
+Wardrobe Studio PUN 474,Clothing Store,Pune,"145, Hadapsar, Pune",+91 8618450083,demo_sample_directory
+Style Studio KOL 475,Clothing Store,Kolkata,"147, Howrah, Kolkata",033-4871647,demo_sample_local
+Wardrobe Works AHM 476,Clothing Store,Ahmedabad,"167, CG Road, Ahmedabad",+91 9079537716,demo_sample_trade
+Style Works JAI 477,Clothing Store,Jaipur,"153, Malviya Nagar, Jaipur",+91 8282044148,demo_sample
+Wardrobe Works KOC 478,Clothing Store,Kochi,"191, Kakkanad, Kochi",0484-3738772,demo_sample_directory
+Wardrobe Studio LUC 479,Clothing Store,Lucknow,"100, Indira Nagar, Lucknow",+91 9407275865,demo_sample_local
+Wardrobe Point CHA 480,Clothing Store,Chandigarh,"157, Sector 22, Chandigarh",+91 9906070430,demo_sample_trade
+Pulse Corner MUM 481,Gym,Mumbai,"99, Thane West, Mumbai",022-8484933,demo_sample
+Iron Hub DEL 482,Gym,Delhi,"84, Karol Bagh, Delhi",+91 7339428835,demo_sample_directory
+Pulse Works BEN 483,Gym,Bengaluru,"133, Whitefield, Bengaluru",+91 7919066362,demo_sample_local
+Strength Works HYD 484,Gym,Hyderabad,"154, Hitech City, Hyderabad",040-7839908,demo_sample_trade
+Power Point CHE 485,Gym,Chennai,"168, Adyar, Chennai",+91 9520417815,demo_sample
+Power Hub PUN 486,Gym,Pune,"182, Hinjawadi, Pune",+91 9280805846,demo_sample_directory
+Power Hub KOL 487,Gym,Kolkata,"36, Park Street, Kolkata",033-5467023,demo_sample_local
+Pulse Point AHM 488,Gym,Ahmedabad,"185, Maninagar, Ahmedabad",+91 7590416424,demo_sample_trade
+Strength Center JAI 489,Gym,Jaipur,"115, C Scheme, Jaipur",+91 9804153202,demo_sample
+Pulse House KOC 490,Gym,Kochi,"84, Fort Kochi, Kochi",0484-4694149,demo_sample_directory
+Fit Point LUC 491,Gym,Lucknow,"177, Aliganj, Lucknow",+91 9465883999,demo_sample_local
+Strength Hub CHA 492,Gym,Chandigarh,"55, Sector 35, Chandigarh",+91 8794802316,demo_sample_trade
+Glow Corner MUM 493,Salon,Mumbai,"137, Bandra, Mumbai",022-3562895,demo_sample
+Glow Hub DEL 494,Salon,Delhi,"87, Saket, Delhi",+91 9439377645,demo_sample_directory
+Glow Place BEN 495,Salon,Bengaluru,"83, HSR Layout, Bengaluru",+91 8951414407,demo_sample_local
+Aura Studio HYD 496,Salon,Hyderabad,"45, Kukatpally, Hyderabad",040-9139206,demo_sample_trade
+Trim Works CHE 497,Salon,Chennai,"60, Mylapore, Chennai",+91 7483814153,demo_sample
+Style Studio PUN 498,Salon,Pune,"176, Viman Nagar, Pune",+91 8104944224,demo_sample_directory
+Glow Place KOL 499,Salon,Kolkata,"86, Park Street, Kolkata",033-6762894,demo_sample_local
+Style Gallery AHM 500,Salon,Ahmedabad,"174, Satellite, Ahmedabad",+91 8741567887,demo_sample_trade
+Aura Place JAI 501,Salon,Jaipur,"33, Tonk Road, Jaipur",+91 8721565695,demo_sample
+Style Center KOC 502,Salon,Kochi,"133, MG Road, Kochi",0484-4714567,demo_sample_directory
+Glow Works LUC 503,Salon,Lucknow,"109, Gomti Nagar, Lucknow",+91 8011556076,demo_sample_local
+Blossom Place CHA 504,Salon,Chandigarh,"88, Industrial Area, Chandigarh",+91 9501649877,demo_sample_trade
+Health Works MUM 505,Clinic,Mumbai,"178, Thane West, Mumbai",022-5016141,demo_sample
+Health Point DEL 506,Clinic,Delhi,"130, Karol Bagh, Delhi",+91 8317723211,demo_sample_directory
+Family Depot BEN 507,Clinic,Bengaluru,"191, Indiranagar, Bengaluru",+91 8335640103,demo_sample_local
+Healing Place HYD 508,Clinic,Hyderabad,"168, Banjara Hills, Hyderabad",040-3852617,demo_sample_trade
+Care Studio CHE 509,Clinic,Chennai,"50, Anna Nagar, Chennai",+91 8954118497,demo_sample
+Healing Corner PUN 510,Clinic,Pune,"190, Hadapsar, Pune",+91 9358944233,demo_sample_directory
+City House KOL 511,Clinic,Kolkata,"74, Gariahat, Kolkata",033-7707121,demo_sample_local
+Health Depot AHM 512,Clinic,Ahmedabad,"125, CG Road, Ahmedabad",+91 9268486276,demo_sample_trade
+Health Gallery JAI 513,Clinic,Jaipur,"39, Vaishali Nagar, Jaipur",+91 7265248799,demo_sample
+City House KOC 514,Clinic,Kochi,"157, Panampilly Nagar, Kochi",0484-6501831,demo_sample_directory
+Care Place LUC 515,Clinic,Lucknow,"144, Gomti Nagar, Lucknow",+91 8897690739,demo_sample_local
+Care Gallery CHA 516,Clinic,Chandigarh,"136, Sector 17, Chandigarh",+91 7390591367,demo_sample_trade
+Daily Hub MUM 517,Grocery,Mumbai,"127, Thane West, Mumbai",022-3106829,demo_sample
+Daily Studio DEL 518,Grocery,Delhi,"155, Dwarka, Delhi",+91 7247977570,demo_sample_directory
+Daily Works BEN 519,Grocery,Bengaluru,"196, HSR Layout, Bengaluru",+91 7093503397,demo_sample_local
+Basket Hub HYD 520,Grocery,Hyderabad,"66, Gachibowli, Hyderabad",040-6851226,demo_sample_trade
+Fresh Corner CHE 521,Grocery,Chennai,"99, T Nagar, Chennai",+91 7273846739,demo_sample
+Fresh Point PUN 522,Grocery,Pune,"131, Hadapsar, Pune",+91 7136300252,demo_sample_directory
+Daily Center KOL 523,Grocery,Kolkata,"45, Howrah, Kolkata",033-8424228,demo_sample_local
+Basket Corner AHM 524,Grocery,Ahmedabad,"125, Bodakdev, Ahmedabad",+91 8621334484,demo_sample_trade
+Fresh Depot JAI 525,Grocery,Jaipur,"45, Tonk Road, Jaipur",+91 9806907561,demo_sample
+Fresh Center KOC 526,Grocery,Kochi,"148, Edappally, Kochi",0484-5297214,demo_sample_directory
+Mart House LUC 527,Grocery,Lucknow,"11, Aminabad, Lucknow",+91 7097647459,demo_sample_local
+Daily Depot CHA 528,Grocery,Chandigarh,"119, Sector 22, Chandigarh",+91 9284637470,demo_sample_trade
+Gear House MUM 529,Auto Workshop,Mumbai,"128, Powai, Mumbai",022-4903798,demo_sample
+Wheel House DEL 530,Auto Workshop,Delhi,"196, Karol Bagh, Delhi",+91 7484664056,demo_sample_directory
+Service Gallery BEN 531,Auto Workshop,Bengaluru,"15, Koramangala, Bengaluru",+91 8033653860,demo_sample_local
+Motor Point HYD 532,Auto Workshop,Hyderabad,"163, Hitech City, Hyderabad",040-2281658,demo_sample_trade
+Pitstop Hub CHE 533,Auto Workshop,Chennai,"73, Velachery, Chennai",+91 7189995314,demo_sample
+Service House PUN 534,Auto Workshop,Pune,"149, Shivajinagar, Pune",+91 7933164135,demo_sample_directory
+Gear Depot KOL 535,Auto Workshop,Kolkata,"85, Salt Lake, Kolkata",033-3964289,demo_sample_local
+Wheel Gallery AHM 536,Auto Workshop,Ahmedabad,"164, CG Road, Ahmedabad",+91 9888502524,demo_sample_trade
+Gear Works JAI 537,Auto Workshop,Jaipur,"47, Vaishali Nagar, Jaipur",+91 9835590759,demo_sample
+Gear Corner KOC 538,Auto Workshop,Kochi,"87, Panampilly Nagar, Kochi",0484-4308158,demo_sample_directory
+Pitstop Gallery LUC 539,Auto Workshop,Lucknow,"199, Hazratganj, Lucknow",+91 7752191321,demo_sample_local
+Pitstop Studio CHA 540,Auto Workshop,Chandigarh,"23, Industrial Area, Chandigarh",+91 8479250414,demo_sample_trade
+Bright Place MUM 541,Education,Mumbai,"189, Powai, Mumbai",022-5492384,demo_sample
+Academy Works DEL 542,Education,Delhi,"107, Rohini, Delhi",+91 7789754192,demo_sample_directory
+Knowledge House BEN 543,Education,Bengaluru,"68, HSR Layout, Bengaluru",+91 8291653057,demo_sample_local
+Knowledge Hub HYD 544,Education,Hyderabad,"154, Hitech City, Hyderabad",040-5461789,demo_sample_trade
+Bright Depot CHE 545,Education,Chennai,"45, Velachery, Chennai",+91 8668247132,demo_sample
+Tutor House PUN 546,Education,Pune,"95, Hinjawadi, Pune",+91 9777580509,demo_sample_directory
+Knowledge Place KOL 547,Education,Kolkata,"34, Salt Lake, Kolkata",033-6493236,demo_sample_local
+Learn Works AHM 548,Education,Ahmedabad,"107, Satellite, Ahmedabad",+91 9893398852,demo_sample_trade
+Bright Hub JAI 549,Education,Jaipur,"29, MI Road, Jaipur",+91 7808155185,demo_sample
+Bright House KOC 550,Education,Kochi,"133, Panampilly Nagar, Kochi",0484-3752288,demo_sample_directory
+Tutor Hub LUC 551,Education,Lucknow,"65, Aliganj, Lucknow",+91 7816145550,demo_sample_local
+Knowledge House CHA 552,Education,Chandigarh,"189, Sector 17, Chandigarh",+91 9595884821,demo_sample_trade
+Property House MUM 553,Real Estate,Mumbai,"152, Bandra, Mumbai",022-4697902,demo_sample
+Property Studio DEL 554,Real Estate,Delhi,"147, Saket, Delhi",+91 9786236956,demo_sample_directory
+Shelter Works BEN 555,Real Estate,Bengaluru,"103, Whitefield, Bengaluru",+91 9202530266,demo_sample_local
+Property Point HYD 556,Real Estate,Hyderabad,"195, Gachibowli, Hyderabad",040-5938371,demo_sample_trade
+Estate Place CHE 557,Real Estate,Chennai,"91, Adyar, Chennai",+91 8777816561,demo_sample
+Nivas House PUN 558,Real Estate,Pune,"48, Kothrud, Pune",+91 7069663945,demo_sample_directory
+Nivas Gallery KOL 559,Real Estate,Kolkata,"159, Howrah, Kolkata",033-8039897,demo_sample_local
+Shelter Center AHM 560,Real Estate,Ahmedabad,"61, Bodakdev, Ahmedabad",+91 8416760621,demo_sample_trade
+Property Gallery JAI 561,Real Estate,Jaipur,"73, Malviya Nagar, Jaipur",+91 9144483523,demo_sample
+Shelter Works KOC 562,Real Estate,Kochi,"136, Panampilly Nagar, Kochi",0484-8069643,demo_sample_directory
+Property Center LUC 563,Real Estate,Lucknow,"198, Indira Nagar, Lucknow",+91 8512585138,demo_sample_local
+Estate Depot CHA 564,Real Estate,Chandigarh,"136, Sector 35, Chandigarh",+91 7790479137,demo_sample_trade
+Stay Depot MUM 565,Hotel,Mumbai,"19, Thane West, Mumbai",022-9038616,demo_sample
+Stay Hub DEL 566,Hotel,Delhi,"116, Connaught Place, Delhi",+91 7590521614,demo_sample_directory
+Stay Center BEN 567,Hotel,Bengaluru,"13, Indiranagar, Bengaluru",+91 7939393836,demo_sample_local
+Lodge Place HYD 568,Hotel,Hyderabad,"26, Kukatpally, Hyderabad",040-7182777,demo_sample_trade
+Lodge Studio CHE 569,Hotel,Chennai,"15, Mylapore, Chennai",+91 7028399849,demo_sample
+Suites Corner PUN 570,Hotel,Pune,"14, Hadapsar, Pune",+91 7071838242,demo_sample_directory
+Residency Depot KOL 571,Hotel,Kolkata,"84, New Town, Kolkata",033-2143802,demo_sample_local
+Lodge Center AHM 572,Hotel,Ahmedabad,"38, CG Road, Ahmedabad",+91 7413665007,demo_sample_trade
+Inn House JAI 573,Hotel,Jaipur,"60, MI Road, Jaipur",+91 9661938440,demo_sample
+Residency Place KOC 574,Hotel,Kochi,"79, Panampilly Nagar, Kochi",0484-8668409,demo_sample_directory
+Stay Place LUC 575,Hotel,Lucknow,"114, Indira Nagar, Lucknow",+91 8971380304,demo_sample_local
+Inn House CHA 576,Hotel,Chandigarh,"87, Manimajra, Chandigarh",+91 9937936410,demo_sample_trade
+Kitchen Hub MUM 577,Restaurant,Mumbai,"34, Andheri West, Mumbai",022-5399720,demo_sample
+Biryani Depot DEL 578,Restaurant,Delhi,"132, Rohini, Delhi",+91 7241011818,demo_sample_directory
+Kitchen Center BEN 579,Restaurant,Bengaluru,"32, Koramangala, Bengaluru",+91 9146875428,demo_sample_local
+Kitchen Place HYD 580,Restaurant,Hyderabad,"155, Gachibowli, Hyderabad",040-9197092,demo_sample_trade
+Cafe Hub CHE 581,Restaurant,Chennai,"69, T Nagar, Chennai",+91 7908029328,demo_sample
+Biryani Works PUN 582,Restaurant,Pune,"22, Hadapsar, Pune",+91 7319322484,demo_sample_directory
+Cafe Gallery KOL 583,Restaurant,Kolkata,"179, Howrah, Kolkata",033-2276000,demo_sample_local
+Curry Hub AHM 584,Restaurant,Ahmedabad,"64, Satellite, Ahmedabad",+91 9521300895,demo_sample_trade
+Kitchen Corner JAI 585,Restaurant,Jaipur,"30, Malviya Nagar, Jaipur",+91 8285384455,demo_sample
+Cafe House KOC 586,Restaurant,Kochi,"156, Kakkanad, Kochi",0484-9001556,demo_sample_directory
+Kitchen Depot LUC 587,Restaurant,Lucknow,"95, Indira Nagar, Lucknow",+91 8648606935,demo_sample_local
+Kitchen Point CHA 588,Restaurant,Chandigarh,"139, Sector 35, Chandigarh",+91 8485455239,demo_sample_trade
+MedPlus Corner MUM 589,Pharmacy,Mumbai,"70, Andheri West, Mumbai",022-9035312,demo_sample
+Wellness Gallery DEL 590,Pharmacy,Delhi,"168, Connaught Place, Delhi",+91 9558119733,demo_sample_directory
+Wellness Hub BEN 591,Pharmacy,Bengaluru,"173, Jayanagar, Bengaluru",+91 8173930637,demo_sample_local
+Life House HYD 592,Pharmacy,Hyderabad,"102, Gachibowli, Hyderabad",040-6639216,demo_sample_trade
+Life Center CHE 593,Pharmacy,Chennai,"185, Velachery, Chennai",+91 9516314486,demo_sample
+MedPlus Gallery PUN 594,Pharmacy,Pune,"86, Shivajinagar, Pune",+91 8058493748,demo_sample_directory
+MedPlus Works KOL 595,Pharmacy,Kolkata,"50, Salt Lake, Kolkata",033-5187670,demo_sample_local
+Life Place AHM 596,Pharmacy,Ahmedabad,"103, Satellite, Ahmedabad",+91 7457632732,demo_sample_trade
+MedPlus Works JAI 597,Pharmacy,Jaipur,"124, C Scheme, Jaipur",+91 8545833869,demo_sample
+MedPlus Center KOC 598,Pharmacy,Kochi,"33, Edappally, Kochi",0484-3571956,demo_sample_directory
+Life Depot LUC 599,Pharmacy,Lucknow,"153, Indira Nagar, Lucknow",+91 9200916676,demo_sample_local
+MedPlus Hub CHA 600,Pharmacy,Chandigarh,"33, Industrial Area, Chandigarh",+91 8520050282,demo_sample_trade

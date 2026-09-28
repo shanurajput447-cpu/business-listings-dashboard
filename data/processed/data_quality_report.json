@@ -1,0 +1,15 @@
+{
+  "raw_record_count": 600,
+  "valid_record_count": 600,
+  "invalid_record_count": 0,
+  "duplicate_count_removed": 0,
+  "final_cleaned_record_count": 600,
+  "missing_values_by_field": {
+    "business_name": 0,
+    "category": 0,
+    "city": 0,
+    "address": 0,
+    "phone": 0,
+    "source": 0
+  }
+}
